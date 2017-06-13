@@ -3,11 +3,11 @@
         "Verified": "Yes",
 		"Name":"Norman",
 		"Question1": {
-            "question": "In 1995 what street did you live on? %0D 1) Quarry Road %0D 2) St Ives Way %0D 3) Wagon Wheel Lane %0D 4) Autumn Roan %0D 5) None of the above",
+            "question": "In 1995 what street did you live on? \r\n 1) Quarry Road \r\n 2) St Ives Way \r\n 3) Wagon Wheel Lane \r\n 4) Autumn Roan \r\n 5) None of the above",
 			"answer": "1"
 					},
 		"Question2": {
-            "question": "How much did you borrow for the car you purchased in June 2014? %0D 1) $17,500 %0D 2) $18,965 %0D 3) $21,000 %0D 4) $22,000",
+            "question": "How much did you borrow for the car you purchased in June 2014? \r\n 1) $17,500 \r\n 2) $18,965 \r\n 3) $21,000 \r\n 4) $22,000",
 			"answer": "1"
 			     }			
     }
